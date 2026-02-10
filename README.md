@@ -17,3 +17,7 @@ All analysis was performed using Python and Jupyter Notebook.
 
 ## License
 For academic and research use.
+
+## Supplementary Material
+- `Table_9.1_calculation.ipynb`: Supporting calculations used in the analysis.
+
